@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT(road_id)) AS nyc_road_count FROM `bigquery-public-data.geo_us_roads.us_national_roads`r,`bigquery-public-data.geo_us_census_places.us_national_places` p WHERE ST_WITHIN(road_geom, place_geom) AND name_lsad LIKE "%New York city%" AND p.state_name = "New York" AND r.state_name = "New York"
