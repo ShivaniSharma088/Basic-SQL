@@ -7,5 +7,5 @@ What are the number of unique roads within the city limits of New York City afte
 What are the most common diseases treated at hospitals that do well in the category of  patient readmissions?
  What are 5  populous zip codes in the US in the 2010 census?
 Which are the stations that uploaded the most number of files in 2016?
-How are the 2020 political ads for President sales file have been submitted for New Hampshire? 
+How are the 2020 political ads for President sales file have been submitted for New Hampshire? VG
 How many airports are listed within the gazetteer whose names contain the word airport?
