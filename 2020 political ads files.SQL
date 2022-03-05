@@ -1,0 +1,1 @@
+SELECT COUNT(rawFilePath) FROM `bigquery-public-data.fcc_political_ads.file_record` AS f JOIN `bigquery-public-data.fcc_political_ads.broadcast_tv_radio_station` AS b ON f.stationid=b.stationid WHERE f.folderPath LIKE "PoliticalFiles/2019/Federal/President%" OR f.folderPath LIKE "Political Files/2020/Federal/President%" 
