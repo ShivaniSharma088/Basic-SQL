@@ -5,7 +5,7 @@ What is the total death in USA during COVID-19 pandemic? total death in USA.SQL 
 Which zip codes in California consistently had lower interest in safety and side effects topics compared to the state average, during the early phases of the vaccination campaign started? zip codes in California.SQL![Screenshot 2022-03-04 at 8 10 27 PM](https://user-images.githubusercontent.com/100989289/156874255-e49775bb-9573-4bdb-b375-9bc13195067f.png)
 What are the number of unique roads within the city limits of New York City after combining with the Census Bureau's city limits dataset? number of unique roads within NYC.SQL ![Screenshot 2022-03-04 at 8 11 22 PM](https://user-images.githubusercontent.com/100989289/156874501-902c68eb-98df-461a-b687-c23c7fcfdc1f.png
 What are the most common diseases treated at hospitals that do well in the category of  patient readmissions? most common diseases.SQL ![Screenshot 2022-03-05 at 11 19 36 AM](https://user-images.githubusercontent.com/100989289/156874596-359ee492-0e99-4cf3-b38e-bd1d4e49fada.png)
- What are 5  populous zip codes in the US in the 2010 census?
+ What are 5  populous zip codes in the US in the 2010 census? 5 populous zip codes in the US.SQL![Screenshot 2022-03-05 at 11 34 03 AM](https://user-images.githubusercontent.com/100989289/156874635-8959f83b-520e-48b8-88d1-2627e7f5b274.png)
 Which are the stations that uploaded the most number of files in 2016?
 How are the 2020 political ads for President sales file have been submitted for New Hampshire?
 How many airports are listed within the gazetteer whose names contain the word airport?
